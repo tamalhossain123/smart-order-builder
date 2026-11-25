@@ -4,6 +4,9 @@ A breakfast order builder with a rules engine, shared ingredient stock, an exact
 money pricing engine, time-limited stock reservations, checkout with persisted
 orders, and a Gemini-powered sales assistant over the orders data.
 
+**Live demo:** https://smart-order-builder-one.vercel.app
+**Repository:** https://github.com/tamalhossain123/smart-order-builder
+
 ## Setup
 ```bash
 npm install
